@@ -1,5 +1,4 @@
-# Sprint project 02
-> Home Credit Default Risk
+# Home Credit Default Risk
 
 ## The Business problem
 
@@ -59,7 +58,3 @@ $ pytest tests/
 If you want to learn more about testing Python code, please read:
 - [Effective Python Testing With Pytest](https://realpython.com/pytest-python-testing/)
 - [The Hitchhiker’s Guide to Python: Testing Your Code](https://docs.python-guide.org/writing/tests/)
-
-## Credits
-
-AnyoneAI
